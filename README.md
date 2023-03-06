@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Game
-This is a Python implementation of the classic game of rock-paper-scissors. The game can be played between a user and a computer. The user can choose rock, paper, or scissors, and the computer will randomly select one of these options. The winner of each round is determined by the rules of the game: rock beats scissors, scissors beats paper, and paper beats rock. The game ends after 7 rounds, and the player with the most points at the end of the game is declared the winner.
+This is a ***Python implementation*** of the classic game of rock-paper-scissors. The game can be played between a user and a computer. The user can choose rock, paper, or scissors, and the computer will randomly select one of these options. The winner of each round is determined by the rules of the game: rock beats scissors, scissors beats paper, and paper beats rock. The game ends after 7 rounds, and the player with the most points at the end of the game is declared the winner.
 
 ## Installation:
 
