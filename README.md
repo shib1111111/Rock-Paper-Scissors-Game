@@ -26,13 +26,11 @@ winner gets 1 Point.
 ## File Structure:
 
 #### game.py: 
-Contains the Game class, which implements the logic for the rock-paper-scissors game
+Contains the RPSGame class, which implements the logic for the rock-paper-scissors game.
 #### winner.py: 
-Contains the Winner class, which is responsible for displaying acompliment message when the user repeatedly wins the game.
+Contains the Winner class, which is responsible for displaying a compliment message when the user repeatedly wins the game.
 #### looser.py: 
 Contains the Looser class, which is responsible for displaying a motivational quotes when the user persistently loses the game.
-#### motivation_quotes.py: 
-Contains the MotivationQuotes class, which is responsible for displaying motivational quotes during the game
 #### point_tracking.py: 
 Contains the PointTracking class, which is responsible for keeping track of the user and computer's scores, displaying the final score and result status like who wins, who loses, or Tie.
 #### main.py: 
