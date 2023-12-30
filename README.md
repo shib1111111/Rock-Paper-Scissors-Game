@@ -12,16 +12,16 @@ To start the game, run the main.py file in your terminal:
 Follow the instructions on the screen to play the game. You will be prompted to enter your choice of rock, paper, or scissors, and the computer's choice will be displayed on the screen. The winner of each round will be announced, and the scores will be displayed after each round. At the end of the game, the winner will be announced.
 
 ## Features:
-➢ The game can be played between a user and a computer.
-➢ The user can choose rock, paper, or scissors.
-➢ The computer's choice is randomly selected.
+➢ The game can be played between a user and a computer.<br>
+➢ The user can choose rock, paper, or scissors.<br>
+➢ The computer's choice is randomly selected.<br>
 ➢ The winner of each round is determined by the rules of the game and for each win ,
-winner gets 1 Point.
-➢ The game ends after 7 rounds.
-➢ After every round , score of user & computer will be displayed.
-➢ If the user wins repeatedly , the computer will start to compliment the user
-➢ If the user loses persistently, the computer will start to motivate the user
-➢ The player with the most points at the end of the game is declared the winner.
+winner gets 1 Point.<br>
+➢ The game ends after 7 rounds.<br>
+➢ After every round , score of user & computer will be displayed.<br>
+➢ If the user wins repeatedly , the computer will start to compliment the user<br>
+➢ If the user loses persistently, the computer will start to motivate the user<br>
+➢ The player with the most points at the end of the game is declared the winner.<br>
 
 ## File Structure:
 
