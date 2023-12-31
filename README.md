@@ -50,7 +50,8 @@ Contains information about the rock-paper-scissors game and instructions on how 
 Contributions to this project are welcome. If you find a bug or want to suggest a new feature, please create a new issue on the GitHub repository. If you want to contribute code, please fork the repository and create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT License](LICENSE).
 
 Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
 
