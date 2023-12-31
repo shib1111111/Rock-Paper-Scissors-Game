@@ -39,6 +39,12 @@ Contains the main function, which creates an instance of the RPSGame class and s
 Contains information about the rock-paper-scissors game and instructions on how to use it
 
 
+<table align="center">
+  <tr>
+    <td><img src="screenshots/rps.jpg" alt="Index Page" width="800" height="1800"/></td>
+  </tr>
+  
+</table>
 
 ## Contributing:
 Contributions to this project are welcome. If you find a bug or want to suggest a new feature, please create a new issue on the GitHub repository. If you want to contribute code, please fork the repository and create a pull request with your changes.
